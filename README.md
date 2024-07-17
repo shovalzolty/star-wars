@@ -12,10 +12,9 @@ This is a React application that interacts with the Star Wars API (SWAPI) to dis
 
 ## Setup
 1. Clone the repository
-2. `cd star-wars-catalogue`
-3. `npm install`
-4. `npm start`
-5. Navigate to `http://localhost:3000` to see the application running.
+2. `npm install`
+3. `npm start`
+4. Navigate to `http://localhost:3000` to see the application running.
 
 ## Use of TypeScript and JSX (.tsx)
 This project uses TypeScript with JSX syntax, indicated by `.tsx` files. This approach provides:
